@@ -4,7 +4,7 @@ Massa 2 = 0.0442 kg
 Massa 3 = 0.0454 kg
 Massa 4 = 0.0457 kg
 
-Incertezza su ogni misura +-0.5 mm
+Incertezza su ogni misura di lunghezza +-0.5 mm
 
 Prove dinamiche:
 01 Prova senza masse
