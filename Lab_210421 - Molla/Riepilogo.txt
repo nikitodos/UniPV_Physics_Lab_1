@@ -1,27 +1,10 @@
-Massa palla = 125.2 g
-Massa 1 = 20.7 g
-Massa 2 = 44.2 g
-Massa 3 = 45.4 g
-Massa 4 = 45.7 g
+Massa palla = 0.1252 kg
+Massa 1 = 0.0207 kg
+Massa 2 = 0.0442 kg
+Massa 3 = 0.0454 kg
+Massa 4 = 0.0457 kg
 
 Incertezza su ogni misura +-0.5 mm
-
-Altezza palla senza masse = 11 cm
-Altezza palla con massa 1 = 10 cm
-Altezza palla con massa 2 = 8.8 cm
-Altezza palla con massa 3 = 8.75 cm
-Altezza palla con massa 4 = 8.75 cm
-Altezza palla con massa 1+2 = 7.75 cm
-Altezza palla con massa 2+3 = 6.50 cm
-Altezza palla con massa 3+4 = 6.40 cm
-Altezza palla con massa 1+3 = 7.70 cm
-Altezza palla con massa 1+4 = 7.65 cm
-Altezza palla con massa 2+4 = 6.50 cm
-Altezza palla con massa 1+2+3 = 5.45 cm
-Altezza palla con massa 2+3+4 = 4.20 cm
-Altezza palla con massa 1+3+4 = 5.40 cm
-Altezza palla con massa 1+2+4 = 5.45 cm
-Altezza palla con massa 1+2+3+4 = 3.20 cm
 
 Prove dinamiche:
 01 Prova senza masse
