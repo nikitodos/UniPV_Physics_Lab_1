@@ -27,8 +27,8 @@ physics-lab-1/
 ├── 04_millikan/                     ← Millikan oil-drop experiment, elementary charge measurement
 │   └── data/
 │       └── Lab_210519 - Millikan.xlsx
-└── 05_foucault_telescope/           ← ⭐ HIGHLIGHT: Foucault knife-edge test on a JWST-inspired
-    └── data/                            Cassegrain telescope mirror; CCD wavefront analysis
+└── 05_foucault_telescope/           ← Foucault knife-edge test on a mirror; CCD wavefront analysis
+    └── data/                             
         ├── CCD_images/              ← 14 × 16-bit TIFF frames at different mirror positions
         └── intensity_profiles/      ← Extracted 1D intensity profiles for fitting (14 × .txt)
 ```
